@@ -2,7 +2,7 @@
 #include <conio.h>
 #define N 4
 
-int main(){
+void main(){
 	
 	int i, num[N], impar[N], par[N], maior, menor, dif;
 	int maiorPar = 0;
